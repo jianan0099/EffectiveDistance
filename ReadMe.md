@@ -1,4 +1,4 @@
-#Travel restrictions cannot prevent the arrival of new COVID variants
+# Travel restrictions cannot prevent the arrival of new COVID variants
 
 1 Simulation codes are in main.py
 
